@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 
 import './App.css';
-import GameHomePage from './components/GameHomePage/GameHomePage';
-import MemoryGamePage from './components/MemoryGamePage/MemoryGamePage';
+import GameHomePage from './pages/GameHomePage/GameHomePage';
+import MemoryGamePage from './pages/MemoryGamePage/MemoryGamePage';
 
 function App() {
 
